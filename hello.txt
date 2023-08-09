@@ -1,1 +1,6 @@
 imaitian immmmt sutang
+github
+gitlab
+
+for i in range(10):
+   print(i)
